@@ -11,4 +11,3 @@ function mySubstring() {
     let text2 = "VISHWAKARMA";
     document.getElementById('demo').innerHTML = text1.toUpperCase() + text2.toLowerCase();
 }
-
